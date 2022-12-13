@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>Генеральский_практическая_12</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="1639923011_12-sobakovod-club-p-sobaki-avatarki-sobachek-12.jpg" />
+    <None Remove="220.jpg" />
+    <None Remove="79596769.jpg" />
+    <None Remove="Эл.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="1639923011_12-sobakovod-club-p-sobaki-avatarki-sobachek-12.jpg" />
+    <Resource Include="220.jpg" />
+    <Resource Include="79596769.jpg" />
+    <Resource Include="Эл.jpg" />
+  </ItemGroup>
+
+</Project>
