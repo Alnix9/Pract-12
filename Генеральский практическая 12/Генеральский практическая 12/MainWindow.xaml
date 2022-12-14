@@ -45,7 +45,7 @@
                     </Grid.RowDefinitions>
 
                     <GroupBox Grid.ColumnSpan="2"
-                              Header="Стороны прямоугольного параллелепипеда">
+                              Header="Исходные данные">
                         <Grid>
                             <Grid.ColumnDefinitions>
                                 <ColumnDefinition/>
@@ -104,7 +104,7 @@
                     </GroupBox>
                     <GroupBox Grid.Row="1" 
                               Grid.ColumnSpan="2"
-                              Header="Объём прямоугольного параллелепипеда">
+                              Header="Результат">
                         <Grid>
                             <Grid.ColumnDefinitions>
                                 <ColumnDefinition/>
@@ -164,7 +164,7 @@
                     </Grid.RowDefinitions>
 
                     <GroupBox Grid.ColumnSpan="2"
-                              Header="Двухзначное число">
+                              Header="Исходные данные">
                         <Grid>
                             <Grid.ColumnDefinitions>
                                 <ColumnDefinition/>
@@ -192,7 +192,7 @@
                     </GroupBox>
                     <GroupBox Grid.Row="1" 
                               Grid.ColumnSpan="2"
-                              Header="Сумма и произведение его цифр">
+                              Header="Результат">
                         <Grid>
                             <Grid.ColumnDefinitions>
                                 <ColumnDefinition/>
